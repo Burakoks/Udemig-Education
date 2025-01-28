@@ -1,4 +1,3 @@
-
 <h1> Udemig Education </h1>
 
 Bu bir udemig education projesidir
@@ -7,7 +6,8 @@ Bu bir udemig education projesidir
 
 HTML ve CSS ile hazırlanmıştır
 
-<h2> Ekran Görüntü </H2>
+<h2> Ekran Görüntü </h2>
 
 ![](ekran.gif)
+
 
